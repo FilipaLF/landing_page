@@ -2,7 +2,7 @@ body{
         background-image: url(imagens/panda_3.jpg);  
         background-repeat:no-repeat;
         background-size:contain;
-        background-position: 90%;
+        background-position: right;
         text-align: left;
         font-family: 'Inconsolata', monospace;
         background-color: white;
