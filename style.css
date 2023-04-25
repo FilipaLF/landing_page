@@ -80,10 +80,8 @@ ul li a{
 
 @media (max-width: 640px) {
     body {
-      background: white;
       text-align: left;
       background-position: bottom;
-      background-size: cover;
     }
   
     h1 {
