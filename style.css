@@ -106,9 +106,10 @@ ul li a{
       text-align: center;
     }
 
-    ul li a {
+    ul {
         font-size: 40px;
-        padding-bottom: 80px;
+        padding-top: 800px;
+        margin-left: 700px;
     }
   
 }
