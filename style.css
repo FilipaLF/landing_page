@@ -83,15 +83,6 @@ ul li a{
       background-position: bottom;
       height:auto;
     }
-    
-    h2 {
-        margin-left: 90px;
-    }
-        
-    p {
-      font-size: 15px;
-      margin-left: 90px;
-    }
   
     .coming {
       font-size: 40px;
@@ -100,5 +91,6 @@ ul li a{
   
     ul{
         text-align: right;
+        padding-top: 600px;
     }
 }
