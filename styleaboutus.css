@@ -2,7 +2,7 @@ body{
     background-image: url(imagens/panda_3.jpg);
     background-color: white;
     background-repeat: no-repeat;
-    background-position:90%;
+    background-position:right;
     background-size: contain;
     text-align: left;
     font-family: 'Inconsolata', monospace;
@@ -21,6 +21,7 @@ p{
 font-size: 20px;
 margin-left: 130px;
 line-height: 20px;
+text-align: justify;
 }
 
 .about {
@@ -34,7 +35,7 @@ color:#48D1CC;
 }
 
 ul li{
-    border-left:3px solid #48D1CC;
+    border-left:2px solid #48D1CC;
     text-decoration: none;
     list-style-type: none;
     margin-left: 150px;
@@ -49,6 +50,10 @@ ul li{
     p {
       margin-right: 100px;
       font-size:10px;
+      text-align: justify;
     }
-  
+    
+    ul li{
+        font-size: 10px;
+    }
 }
