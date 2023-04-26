@@ -81,7 +81,7 @@ ul li a{
 @media (max-width: 640px) {
     body {
       background-position:bottom;
-      margin-bottom:20px;
+      hejght:auto;
     }
   
     h1 {
