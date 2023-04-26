@@ -83,20 +83,14 @@ ul li a{
       background-position: bottom;
       height:auto;
     }
-}  
     
-    /*h1 {
-      font-size: 80px;
-      margin-bottom: 20px;
-      padding-top: 80px;
-    }
-  /*/
     h2 {
-        margin-left: 100px;
+        margin-left: 90px;
+    }
         
     p {
       font-size: 15px;
-      margin-left: 100px;
+      margin-left: 90px;
     }
   
     .coming {
