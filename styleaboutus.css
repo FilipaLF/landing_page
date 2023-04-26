@@ -49,11 +49,11 @@ ul li{
         
     p {
       margin-right: 100px;
-      font-size:10px;
+      font-size:20px;
       text-align: justify;
     }
     
     ul li{
-        font-size: 10px;
+        font-size: 20px;
     }
 }
