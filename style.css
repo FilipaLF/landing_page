@@ -83,7 +83,11 @@ ul li a{
       background-position: bottom;
       height:auto;
     }
-  
+    
+    p{
+        margin-right:100px;
+    }
+    
     .coming {
       font-size: 40px;
       text-align: center;
@@ -92,5 +96,6 @@ ul li a{
     ul{
         text-align: right;
         padding-top: 600px;
+        padding-right:100px
     }
 }
